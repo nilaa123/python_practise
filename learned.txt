@@ -1,0 +1,16 @@
+bool():-
+	this return true if it' an non empty one and this is not an type conversation like int()
+lower() and lower difference:-
+	lower() is a like a inbuilt call function to make the string lowercase , even though lower doesn't give a error as it is an refrence but
+it doesnt call the function , so the string wont change to lowercase 
+strip():-
+	used to remove all types of spaces like newline
+---------------------------------------------------------------------------------------------------------------------------------------
+1)Python has else statement not just for "if condition" but also for "while loop",the "else condition" when
+used with "while loop" runs only when the "while loop" completes without any break or exit
+2)Always leave two lines after creation of function or class for PEP 8
+3)Class shouldnt empty so add the key 'pass'
+4)__init__.py is considered as an Package
+5)In random.randint (1,5) the values are 1,2..5 (including 5 but this is not case for range)
+6) when returning "x,y" or "(x,y)" are same because both are tuples 
+
