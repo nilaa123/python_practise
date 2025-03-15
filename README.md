@@ -3,14 +3,14 @@ Welcome to my Practice Problems repository! This repo contains various coding pr
 
 **Repository Structure**
 
-Local
+Local directory:
 
 The problems that i have done while initial learning and random problems that I come across
 
-Leetcode
+Leetcode directory:
 
 Solutions to the leetcode problems that I have solved with my own approach.(Would modify whenever I come with better approach)
 
-License
+License:
 
 This repository is for educational purposes. Free to use and modify!
